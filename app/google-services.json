@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "816969082034",
+    "project_id": "auth-ceefc",
+    "storage_bucket": "auth-ceefc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816969082034:android:ced33895ac091effe595ab",
+        "android_client_info": {
+          "package_name": "com.example.auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "816969082034-8kc4k2l2sf7mvng9jh7bgorm6mjtv3g6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQzcL82FXQu-UIuMUzMfgIQtSSXIqYMTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "816969082034-8kc4k2l2sf7mvng9jh7bgorm6mjtv3g6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
